@@ -10,7 +10,7 @@ npm start
 npm run test
 npm run build
 
-## Ejecicio
+## Ejercicio
 
 - consumir los datos de una api utilizando fetch y renderizar los datos en pantalla.
 - usar hooks useState y useEffect y componentes funcionales.
