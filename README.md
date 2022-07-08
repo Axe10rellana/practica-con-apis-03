@@ -6,9 +6,9 @@ codigo base del proyecto de practica donde se consume una api en fase de desarro
 
 ## comandos
 
-npm start
-npm run test
-npm run build
+- npm start
+- npm run test
+- npm run build
 
 ## Ejercicio
 
